@@ -2,7 +2,7 @@
 
 using namespace std;
 int main(){
-	cout<<"work half"<<endl;
+	cout<<"just   work  half"<<endl;
 	return 0;
 }
 
